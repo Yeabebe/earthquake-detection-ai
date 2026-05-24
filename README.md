@@ -64,7 +64,7 @@ earthquake-detection-ai/
 │   └── esp32_sensor_data.csv
 │
 ├── notebooks/
-│   ├── earthquake_tinyml_model.ipynb
+│   ├── earthquake_detection.ipynb
 │   ├── earthquake_lstm_model.ipynb
 │   └── esp32_vibration_tinyml_model.ipynb
 │
@@ -73,8 +73,7 @@ earthquake-detection-ai/
 │   ├── earthquake_lstm.tflite
 │   └── esp32_vibration_model.tflite
 │
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 ---
